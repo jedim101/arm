@@ -43,4 +43,13 @@ Like stage 1, stage 2 contains internal holes for wires. Wires go through the ce
 <img height="500" src="https://github.com/user-attachments/assets/957dfcbd-34c3-44d0-8077-395a84131085" />
 <img height="500" src="https://github.com/user-attachments/assets/7c433a2e-6952-4d67-a9bd-954d29e33234" />
 
+# June 16
+
+I've been busy for the past couple of weeks, but I'm back now.
+
+### Shorten Stage 2
+
+The segments on the arm seemed too long with the two part threaded extension, so I made it one part. The central part is 180mm tall (the tallest my printer can print) and the bottom part to attach to the servoe below and the top part with the next servo are unchanged. It's now 296mm center-to-center from the servo below to the one above (it was 416mm before).
+
+<img width="742" alt="image" src="https://github.com/user-attachments/assets/79730a67-9ed8-41db-8db7-8230bffc34f7" />
 
